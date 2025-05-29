@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b828da.css",
+    "main.js": "/static/js/main.a241981e.js",
+    "static/js/453.bd8c4114.chunk.js": "/static/js/453.bd8c4114.chunk.js",
+    "static/media/Logo.png": "/static/media/Logo.60dd2d34603d12e30ca4.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/About.jpg": "/static/media/About.fae668b14e008a21547b.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/Hero-img.jpg": "/static/media/Hero-img.583ff1c3839e5c0289ac.jpg",
+    "static/media/Phone repair.jpeg": "/static/media/Phone repair.c0dcbe7d4c869f01c43a.jpeg",
+    "static/media/Graphics.jpeg": "/static/media/Graphics.c7a21ae460a6807a0837.jpeg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/Webdev.jpeg": "/static/media/Webdev.2b277ff0792a17123526.jpeg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "main.d1b828da.css.map": "/static/css/main.d1b828da.css.map",
+    "main.a241981e.js.map": "/static/js/main.a241981e.js.map",
+    "453.bd8c4114.chunk.js.map": "/static/js/453.bd8c4114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b828da.css",
+    "static/js/main.a241981e.js"
+  ]
+}
