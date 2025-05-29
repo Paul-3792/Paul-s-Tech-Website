@@ -1,0 +1,7 @@
+.abt-section{
+    background-image: url(../Assets/About.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    padding-top: 10%;
+}
